@@ -1,16 +1,36 @@
-# new_todo
 
-A new Flutter project.
+![1](https://github.com/user-attachments/assets/094ed75d-3484-498f-839b-68390891a043)
+![3](https://github.com/user-attachments/assets/2b2cc501-8101-4106-b903-c52215c0ca92)
+![2](https://github.com/user-attachments/assets/449eae58-35bb-4f84-bcb1-da50553d7955)
 
-## Getting Started
+# QUICK_CHECK 
 
-This project is a starting point for a Flutter application.
+🚀 **Excited to announce that I've completed my first-ever Android app built with Flutter!**
 
-A few resources to get you started if this is your first Flutter project:
+I’ve been diving into mobile app development and this basic **ToDo App** is my first milestone. The app allows users to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ **Add tasks**
+- 📝 **Mark tasks as complete**
+- ❌ **Delete tasks**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project helped me get hands-on experience with **Flutter** and **Dart**, while also deepening my understanding of:
+
+- Basics of OOP concepts
+- State management
+- Building responsive UI components
+- Handling user inputs and interactions
+
+It’s exciting to see an idea come to life, and I’m eager to keep improving and adding more features in the future.
+
+## 📱 Features
+
+- **Add Tasks:** Quickly add new tasks to your list.
+- **Mark as Complete:** Check off tasks as you complete them.
+- **Delete Tasks:** Remove tasks from your list when no longer needed.
+
+## 🌟 Technologies Used
+
+- **Flutter:** For building the cross-platform mobile app.
+- **Dart:** The programming language used in Flutter.
+- **Hive:** A lightweight and fast local database used for storing task data on the device.
+
