@@ -1,7 +1,5 @@
 
 ![1](https://github.com/user-attachments/assets/094ed75d-3484-498f-839b-68390891a043)
-![3](https://github.com/user-attachments/assets/2b2cc501-8101-4106-b903-c52215c0ca92)
-![2](https://github.com/user-attachments/assets/449eae58-35bb-4f84-bcb1-da50553d7955)
 
 # QUICK_CHECK 
 
